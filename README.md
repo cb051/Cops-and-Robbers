@@ -1,0 +1,2 @@
+# Cops-and-Robbers
+This project builds the AutoGame files into a game. Cops chase robber cars around the screen. Cars are filled up when created but will run out of gas and stop moving on the screen. The user can right click the panel (screen) to refill the cars. When the user clicks on the panel cop and robber cars alternate being added to the screen. When This project explores event-based programming.
